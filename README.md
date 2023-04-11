@@ -24,3 +24,6 @@ Si el proyecto requiere una base de datos, siga los siguientes pasos para config
 Abra el archivo "application.properties" ubicado en la carpeta "src/main/resources".
 Configure los valores de la base de datos según sea necesario.
 Guarde el archivo y compile y ejecute el proyecto nuevamente según los pasos anteriores.
+
+Tests en Postman:
+Crear Http Request y consultar endpoints con la ruta localhost:8080/users para crear, listar, actualiza o eliminar datos de usuario
